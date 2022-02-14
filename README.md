@@ -5,9 +5,9 @@
 </p>
 
 # Marcos Diez Wagner
-<sub>*Matemático* </sub>
+<sub> *Matemático* </sub>
 
-Descreva sua experiencia profissional
+Matemático, com 8 anos de experiência em condução de aulas e elaboração de conteúdo, aprimorei minha comunicação e capacidade analítica ao conduzir resoluções para desafios do dia-a-dia. Hoje estou em uma formação em ciência de dados e busco uma oportunidade de atuar como cientista de dados para contribuir com minhas habilidades e entregar melhores resultados.
 
 **Background in:** Python |  Power BI | SQL
 
