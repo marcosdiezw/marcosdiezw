@@ -7,7 +7,16 @@
 # Marcos Diez Wagner
 <sub> *Matemático* </sub>
 
+![language](https://img.shields.io/badge/EN-blue.svg)
+Mathematician, with 8 years of experience teaching and working out content. I developed communication and analysis skills executing resolutions for daily challenges.
+I am currently doing a Data Science course at Awari and looking for an opportunity to act as data analyst or data scientist, contributing my skills to deliver the best results. 
+
+![language](https://img.shields.io/badge/PT-green.svg)
 Matemático, com 8 anos de experiência em condução de aulas e elaboração de conteúdo, aprimorei minha comunicação e capacidade analítica ao conduzir resoluções para desafios do dia-a-dia. Hoje estou em uma formação em ciência de dados e busco uma oportunidade de atuar como cientista de dados para contribuir com minhas habilidades e entregar melhores resultados.
+
+![language](https://img.shields.io/badge/ES-red.svg)
+Matemático, con 8 años de experiencia en conducción de clases y elaboración de contenido, fui desarrollando capacidades de comunicación y análisis al ejecutar resoluciones para los desafíos diarios. 
+Actualmente estoy cursando una formación en Ciencia de Datos con Awari y busco una oportunidad para actuar como analista o científico, contribuyendo con mis habilidades para entregar los mejores resultados.
 
 **Background in:** Python |  Power BI | SQL
 
@@ -17,6 +26,5 @@ Matemático, com 8 anos de experiência em condução de aulas e elaboração de
 ## Projetos Desenvolvidos:
 Veja abaixo meu portfólio desenvolvido durante minha jornada de desenvolvimento:
 
-* **Power BI** - Dashboard Overview Vendas 
-* **SQL** - Principais funcionalidades para edição, consulta e manipulação de dados
-* **Projetos Analíticos**
+* **SQL** - Principais funcionalidades para edição, consulta e manipulação de dados.
+* **Python** - Análise estatística em Google Colab.
