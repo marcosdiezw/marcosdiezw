@@ -19,4 +19,4 @@ Veja abaixo meu portfólio desenvolvido durante minha jornada de desenvolvimento
 
 * **Power BI** - Dashboard Overview Vendas 
 * **SQL** - Principais funcionalidades para edição, consulta e manipulação de dados
-* **Projetos Analíticos**:
+* **Projetos Analíticos**
