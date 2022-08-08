@@ -24,7 +24,7 @@ Actualmente estoy cursando una formación en Ciencia de Datos con Awari y busco 
 * [LinkedIn](https://www.linkedin.com/in/marcos-diez-wagner)
 
 ## Projetos Desenvolvidos:
-Veja abaixo meu portfólio desenvolvido durante minha jornada de desenvolvimento:
+Veja abaixo meu portfólio desenvolvido durante minha jornada, com as ferramentas:
 
 * **SQL** - Principais funcionalidades para edição, consulta e manipulação de dados.
 * **Python** - Análise estatística em Google Colab.
